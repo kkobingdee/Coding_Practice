@@ -6,4 +6,4 @@ NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO 
 
 Python Basic to Master
 
-CodeUp_Python_기초_100제
+Step 1. CodeUp_Python_기초_100제
