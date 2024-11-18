@@ -7,3 +7,5 @@ NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO GPT NO 
 Python Basic to Master
 
 Step 1. CodeUp_Python_기초_100제
+
+Step 2. BAEKJOON 단계별로 풀어보기
